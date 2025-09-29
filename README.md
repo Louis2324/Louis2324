@@ -23,7 +23,7 @@
 - **miguellouis2023@gmail.com**
 
 ### ⚡ Fun Fact
-I debug my bugs in French (perks of being multi-lingual 😅)
+I debug my code in French sometimes (perks of being multi-lingual 😅)
 
 ---
 
