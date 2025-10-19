@@ -4,15 +4,15 @@
 ---
 
 ### 🔭 Current Project
-- **KnightMare** → A command-line chess engine written in C++  
-  *(exploring engine design, algorithms, and low-level programming)*
+- **Beetz** → A cross-platform music streaming app built with electron  
+  *(exploring electron-builds, desktop applications, and desktop and web apps sync)*
 
 ### 🤝 Looking for Help With
 - Electron build optimizations  
 - Advanced low-level systems theory  
 
 ### 🌱 Currently Learning
-- **C#**
+- **Swift**
 
 ### 💬 Ask Me About
 - React , Electron , App development 
