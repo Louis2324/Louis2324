@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Louis</h1>
-<h3 align="center">Full Stack MERN Developer | Low-level Enthusiast</h3>
+<h3 align="center">Full Stack MERN Developer and Low-level Enthusiast</h3>
 
 ---
 
@@ -7,17 +7,9 @@
 - **Beetz** → A cross-platform music streaming app built with electron  
   *(exploring electron-builds, desktop applications, and desktop and web apps sync)*
 
-### 🤝 Looking for Help With
-- Electron build optimizations  
-- Advanced low-level systems theory  
-
 ### 🌱 Currently Learning
 - **Swift**
 
-### 💬 Ask Me About
-- React , Electron , App development 
-- MERN stack development  
-- C++ , CMake,Qt
 
 ### 📫 Reach Me At
 - **miguellouis2023@gmail.com**
