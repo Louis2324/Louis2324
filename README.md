@@ -1,24 +1,17 @@
 <h1 align="center">Hi 👋, I'm Louis</h1>
-<h3 align="center">Full Stack MERN Developer and Low-level Enthusiast</h3>
+<h3 align="center">Full Stack Developer</h3>
 
 ---
 
-### 🔭 Current Project
-- **Beetz** → A cross-platform music streaming app built with Electron  
-  *(exploring electron-builds, desktop applications, and desktop and web apps sync)*
-
-### 🌱 Currently Learning
-- **Swift**
-
-### 📫 Reach Me At
+###  Reach Me At
 - **miguellouis2023@gmail.com**
 
-### ⚡ Fun Fact
+###  Fun Fact
 I debug my code in French sometimes (perks of being multi-lingual 😅)
 
 ---
 
-## 🛠️ Skills
+##  Skills
 
 ### Frontend / Desktop
 <p align="left">
@@ -38,14 +31,6 @@ I debug my code in French sometimes (perks of being multi-lingual 😅)
   <img src="https://img.shields.io/badge/MongoDB-47A248.svg?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB"/>
   <img src="https://img.shields.io/badge/MySQL-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"/>
 </p>
-
-### Low-level Development
-<p align="left">
-  <img src="https://img.shields.io/badge/C-A8B9CC.svg?style=for-the-badge&logo=c&logoColor=white" alt="C"/>
-  <img src="https://img.shields.io/badge/C++-00599C.svg?style=for-the-badge&logo=cplusplus&logoColor=white" alt="C++"/>
-  <img src="https://img.shields.io/badge/Java-ED8B00.svg?style=for-the-badge&logo=java&logoColor=white" alt="Java"/>
-</p>
-
 ---
 
 > "Every bug is just a puzzle in disguise."
