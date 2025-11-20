@@ -13,7 +13,7 @@ I debug my code in French sometimes (perks of being multi-lingual 😅)
 
 ##  Skills
 
-### Frontend / Desktop
+### Frontend && Desktop
 <p align="left">
   <img src="https://img.shields.io/badge/HTML5-E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/>
   <img src="https://img.shields.io/badge/CSS3-1572B6.svg?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"/>
@@ -23,7 +23,7 @@ I debug my code in French sometimes (perks of being multi-lingual 😅)
   <img src="https://img.shields.io/badge/Electron-47848F.svg?style=for-the-badge&logo=electron&logoColor=white" alt="Electron"/>
 </p>
 
-### Backend / Databases
+### Backend && Databases
 <p align="left">
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
   <img src="https://img.shields.io/badge/Express.js-000000.svg?style=for-the-badge&logo=express&logoColor=white" alt="Express"/>
