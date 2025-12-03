@@ -31,6 +31,7 @@ I debug my code in French sometimes (perks of being multi-lingual 😅)
   <img src="https://img.shields.io/badge/MongoDB-47A248.svg?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB"/>
   <img src="https://img.shields.io/badge/MySQL-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"/>
 </p>
+
 ---
 
 > "Every bug is just a puzzle in disguise."
