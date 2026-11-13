@@ -1,37 +1,25 @@
-<h1 align="center">Hi 👋, I'm Louis</h1>
-<h3 align="center">Full Stack Developer</h3>
+# 👋 Hi, I'm Louis
 
----
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=IBM+Plex+Sans&size=25&duration=3000&pause=2000&color=5C75BF&center=true&vCenter=true&width=500&lines=Full‑stack+developer;Game+dev+enthusiast;Building+things+that+work)](https://git.io/typing-svg)
 
-###  Reach Me At
-- **miguellouis2023@gmail.com**
+## About Me
+I'm a student at **Rwanda Coding Academy**, passionate about **software engineering**, **robotics**, and **AI**.  
+I love the moment when code turns an idea into something real especially when it's a web app, a game, or a robot.
 
-###  Fun Fact
-I debug my code in French sometimes (perks of being multi-lingual 😅)
+##  Tech Stack
 
----
-
-##  Skills
-
-### Frontend && Desktop
+**Languages**  
 <p align="left">
-  <img src="https://img.shields.io/badge/HTML5-E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/>
-  <img src="https://img.shields.io/badge/CSS3-1572B6.svg?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"/>
-  <img src="https://img.shields.io/badge/React-20232A.svg?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React"/>
-  <img src="https://img.shields.io/badge/Bootstrap-7952B3.svg?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap"/>
-  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind CSS"/>
-  <img src="https://img.shields.io/badge/Electron-47848F.svg?style=for-the-badge&logo=electron&logoColor=white" alt="Electron"/>
+  <img src="https://skillicons.dev/icons?i=c,html,css,js,cpp,java" />
 </p>
 
-### Backend && Databases
+**Frameworks & Tools**  
 <p align="left">
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
-  <img src="https://img.shields.io/badge/Express.js-000000.svg?style=for-the-badge&logo=express&logoColor=white" alt="Express"/>
-  <img src="https://img.shields.io/badge/TypeScript-3178C6.svg?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript"/>
-  <img src="https://img.shields.io/badge/MongoDB-47A248.svg?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB"/>
-  <img src="https://img.shields.io/badge/MySQL-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"/>
+  <img src="https://skillicons.dev/icons?i=nodejs,react,express,electron" />
 </p>
 
----
+Find my latest project [ici](https://www.npmjs.com/package/hint-errors)
 
-> "Every bug is just a puzzle in disguise."
+## Let's Connect
+
+- **Email**: miguellouis2023@gmail.com  
